@@ -8,10 +8,8 @@ BY the use of online Yoga Instructure many people can learn and perform their yo
 
 ![image](https://user-images.githubusercontent.com/78070142/207899250-1b9850bb-e68a-48d9-b505-8c0643c4a66b.png)  
 
-#Yoga is the best treatment in the Universe.
 
-
-#Technology Used:
+# Technology Used:
 
 react
 
