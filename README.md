@@ -6,10 +6,7 @@ Yoga Master designed or customized the asanas as per the individual’s need in 
 
 BY the use of online Yoga Instructure many people can learn and perform their yoga at any place at any time.It is very easy to give some idea of asanas by the use of this app.
 
-![image](https://user-images.githubusercontent.com/78070142/207899250-1b9850bb-e68a-48d9-b505-8c0643c4a66b.png)
-
-![image](https://user-images.githubusercontent.com/78070142/207899366-ac485bcf-d7c2-452a-93b0-cdcbc265fd0c.png)
-
+![image](https://user-images.githubusercontent.com/78070142/207899250-1b9850bb-e68a-48d9-b505-8c0643c4a66b.png)  Yoga is the best treatment in the Universe.
 
 #Technology Used:
 
